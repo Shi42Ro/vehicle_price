@@ -13,7 +13,7 @@
 - days_listed — from publication to removal
 
 # Goal
-Studying vehicle ads to determine what factors influence vehicle price
+Analyzing advertisements for vehicles to identify the factors that impact vehicle pricing.
 
 # Libraries
 *pandas, matplotlib, numpy, seaborn, missingno*
